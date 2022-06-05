@@ -27,7 +27,7 @@ copy "arknoidu.zip" _mame_2003plus_aknf
 copy "armwaru.zip" _mame_2003plus_aknf
 copy "asterix.zip" _mame_2003plus_aknf
 copy "asteroid.zip" _mame_2003plus_aknf
-copy "astorm.zip" _mame_2003plus_aknf
+copy "astormbl.zip" _mame_2003plus_aknf
 copy "avspirit.zip" _mame_2003plus_aknf
 copy "avspu.zip" _mame_2003plus_aknf
 copy "baddudes.zip" _mame_2003plus_aknf
@@ -212,7 +212,7 @@ copy "mk2.zip" _mame_2003plus_aknf
 copy "mk3.zip" _mame_2003plus_aknf
 copy "mmatrix.zip" _mame_2003plus_aknf
 copy "monsterb.zip" _mame_2003plus_aknf
-copy "moonwalk.zip" _mame_2003plus_aknf
+copy "moonwlkb.zip" _mame_2003plus_aknf
 copy "mooua.zip" _mame_2003plus_aknf
 copy "mpatrol.zip" _mame_2003plus_aknf
 copy "mrdo.zip" _mame_2003plus_aknf
@@ -297,7 +297,7 @@ copy "sfa2.zip" _mame_2003plus_aknf
 copy "sfa3.zip" _mame_2003plus_aknf
 copy "sgemf.zip" _mame_2003plus_aknf
 copy "shadfrce.zip" _mame_2003plus_aknf
-copy "shangon.zip" _mame_2003plus_aknf
+copy "shangonb.zip" _mame_2003plus_aknf
 copy "shaolins.zip" _mame_2003plus_aknf
 copy "sharrier.zip" _mame_2003plus_aknf
 copy "shdancer.zip" _mame_2003plus_aknf
